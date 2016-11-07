@@ -14,8 +14,8 @@ port: 4000
 
 # Author settings
 author:
-  name      : Cao Yang
-  job       : Frontend Engineer
-  #thumb     : /images/author.jpg
-  email     : answershuto@126.com
-  github    : http://github.com/answershuto
+  name      : Wentao Zheng
+  job       : PHP Development Engineer
+  thumb     : /img/zwt_head.jpeg
+  email     : zwt0706@126.com
+  github    : http://github.com/github
