@@ -1,1 +1,1 @@
-# MyPages.github.io
+用来记录学习过程以及分享技术所得的个人blog
